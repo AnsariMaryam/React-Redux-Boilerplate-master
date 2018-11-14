@@ -1,10 +1,11 @@
 import React from 'react';
 import UserList from '../containers/user-list';
 import UserDetails from '../containers/user-detail';
-require('../../scss/style.scss');
+//require('../../scss/style.scss');
 
 const App = () => (
     <div>
+        <h1> Removed Style By Maryam ... </h1>
         <h2>User List</h2>
         <UserList />
         <hr />
